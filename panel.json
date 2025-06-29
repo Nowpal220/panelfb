@@ -3,5 +3,10 @@
     "password": "destroy",
     "masa_aktif": "2030-04-06",
     "cooldown": "0s"
+  },
+  "Renzz": {
+    "password": "1",
+    "masa_aktif": "2026-03-21",
+    "cooldown": "60"
   }
 }
