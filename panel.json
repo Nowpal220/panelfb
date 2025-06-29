@@ -8,5 +8,10 @@
     "password": "1",
     "masa_aktif": "2026-03-21",
     "cooldown": "60"
+  },
+  "renzz": {
+    "password": "1",
+    "masa_aktif": "2026-07-04",
+    "cooldown": "60s"
   }
 }
