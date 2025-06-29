@@ -3,5 +3,10 @@
     "password": "1",
     "masa_aktif": "2026-07-04",
     "cooldown": "60s"
+  },
+  "xenzy": {
+    "password": "maklu",
+    "masa_aktif": "2031-10-04",
+    "cooldown": "0s"
   }
 }
