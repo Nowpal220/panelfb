@@ -1,8 +1,8 @@
 {
   "api": "http://ptero.v1.lynzz.biz.id:38719/api/bug/",
   "users": {
-    "admin": {
-      "password": "admin123"
+    "xenzy": {
+      "password": "h"
     },
     "nowpal": {
       "password": "necrokode"
