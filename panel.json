@@ -1,8 +1,11 @@
 {
-  "xenzy": {
-    "password": "h",
-    "masa_aktif": "2032-05-07",
-    "cooldown": "0",
-    "role": "owner"
+  "api": "http://ptero.v1.lynzz.biz.id:38719/api/bug/",
+  "users": {
+    "admin": {
+      "password": "admin123"
+    },
+    "nowpal": {
+      "password": "necrokode"
+    }
   }
 }
