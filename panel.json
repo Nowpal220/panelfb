@@ -1,14 +1,8 @@
 {
   "api": "http://ptero.v1.lynzz.biz.id:38719/api/bug/",
   "users": {
-    "xenzy": {
-      "password": "h"
-    },
-    "nowpal": {
-      "password": "necrokode"
-    },
-    "adit": {
-      "password": "pedo"
-    }
+    "xenzy": { "password": "h" },
+    "nowpal": { "password": "necrokode" },
+    "adit": { "password": "pedo" }
   }
 }
