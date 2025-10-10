@@ -1,17 +1,2 @@
-{
-  "api": "http://ptero.v1.lynzz.biz.id:38719/api/bug/",
-  "users": {
-    "xenzy": {
-      "password": "h"
-    },
-    "nowpal": {
-      "password": "necrokode"
-    },
-    "adit": {
-      "password": "pedo"
-    },
-    "maklu": {
-      "password": "q"
-    }
-  }
-}
+url=http://dzakkyprivate.jwxsigma.cloud:2050
+maintenance=off
