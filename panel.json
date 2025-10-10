@@ -1,2 +1,4 @@
-url=http://dzakkyprivate.jwxsigma.cloud:2050
-maintenance=off
+{
+  "url": "http://dzakkyprivate.jwxsigma.cloud:2050",
+  "maintenance": "off"
+}
