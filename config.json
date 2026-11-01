@@ -1,1 +1,5 @@
-{"server":"http://respanelomdhan.omdhangantenk.my.id.omdhangantenk.web.id:2169"}
+{
+  "putaran": [12, 43, 52],
+  "interval": 3,
+  "aktif": true
+}
